@@ -22,5 +22,5 @@ There for 3 parts in this simple web app.
 	![demo: 3_submission.png](/img/screenshot_3_submission.png)
 
 #### Testing connection and creating a table in MySQL
-![demo: 4_mySQL.png](/img/screenshot_4_mySQL.png)
+<img width="500" src="https://raw.githubusercontent.com/miaoT/php-registerForm/master/img/screenshot_4_mySQL.png"/>
 
