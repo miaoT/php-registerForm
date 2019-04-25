@@ -1,6 +1,6 @@
 ## php-registerForm
 	
-This is developing a Web app for registering details in a database, by using a MySQL database and PHP for processing the information. The solution has 3 parts:
+This is developing a Web app for registering details in a database, by using a MySQL database and PHP for processing the information. 
 	
 
 ### Description	
